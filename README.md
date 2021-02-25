@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>Hi guys ♥</h1>
 
-<!--
-**gabiircosta/gabiircosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👯 Call me <b>Gabi</b>!
 
-Here are some ideas to get you started:
+🔭 I'm building a developer in me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently studying JAVA. Here you'll find some of my projects and a lot of things about what I'm studying.
+
+😄 If I can help you with some infformation, please let me know!
+
+📫 Find me on <a href= "https://www.linkedin.com/in/gabriela-da-costa-rodrigues-05688381/">Linkedin</a>
+
+Just another dev who is a coffee addicted!
+
+<img src="https://media.giphy.com/media/3jVT4U5bilspG/giphy.gif" width="80" height="80" />
+
+<h1>Welcome to my World ♥</h1>
