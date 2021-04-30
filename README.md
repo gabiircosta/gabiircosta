@@ -15,3 +15,5 @@ Just another dev who is a coffee addicted!
 <img src="https://media.giphy.com/media/3jVT4U5bilspG/giphy.gif" width="80" height="80" />
 
 <h1>Welcome to my World ♥</h1>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?gabiircosta=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
