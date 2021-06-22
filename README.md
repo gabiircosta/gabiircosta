@@ -25,5 +25,9 @@ Just another dev who is a coffee addicted!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiircosta&layout=compact)](https://github.com/gabiircosta/github-readme-stats)
 
 
+![Gabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiircosta&theme=gruvbox_icons=true)
+
+
+
 
 
