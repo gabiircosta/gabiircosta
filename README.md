@@ -12,7 +12,7 @@
 
 Just a dev who is a coffee addicted!
 
-<img src="https://giphy.com/clips/originals-coffee-morning-good-RJRLHkOnqdYHBJtDrq" width="80" height="80" />
+<img src="https://giphy.com/clips/originals-coffee-morning-good-RJRLHkOnqdYHBJtDrq">
 
 
 <h1>Welcome to my World ♥</h1>
