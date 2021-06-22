@@ -17,9 +17,13 @@ Just another dev who is a coffee addicted!
 <h1>Welcome to my World ♥</h1>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiircosta)](https://github.com/gabiircosta/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Gabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiircosta&count_private=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiircosta&layout=compact)](https://github.com/gabiircosta/github-readme-stats)
+
 
 
 
