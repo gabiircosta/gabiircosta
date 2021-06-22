@@ -12,9 +12,6 @@
 
 Just a dev who is a coffee addicted!
 
-<img src="https://giphy.com/clips/originals-coffee-morning-good-RJRLHkOnqdYHBJtDrq">
-
-
 <h1>Welcome to my World ♥</h1>
 
 ![Gabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiircosta&count_private=true)
