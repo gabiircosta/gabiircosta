@@ -1,6 +1,7 @@
 <h1>Hi guys ♥</h1>
 
 👯 Call me <b>Gabi</b>!
+
 🌱 Programming in JAVA and KOTLIN. Here you'll find some of my projects and a lot of things about what I'm studying and working at.
 😄 If I can help you with some infformation, please let me know!
 📫 Find me on <a href= "https://www.linkedin.com/in/gabriela-da-costa-rodrigues-05688381/">Linkedin</a>
