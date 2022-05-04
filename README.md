@@ -12,6 +12,12 @@ Just a dev who is a coffee addicted!
 
 <h1>Welcome to my World ♥</h1>
 
-![Gabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiircosta&count_private=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiircosta&layout=compact)](https://github.com/gabiircosta/github-readme-stats)
+
+<div> 
+  <a href = "rcostagabi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriela-rodrigues-05688381/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ ![Snake animation](https://github.com/gabiircosta/gabiircosta/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
